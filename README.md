@@ -1,2 +1,2 @@
 # spectrum_internship2
-2nd task spectrum
+2nd task_spectrum 
